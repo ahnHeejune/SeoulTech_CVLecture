@@ -4,6 +4,10 @@
 
 - based on Handbit Pub. "Computer vision and Deep Learning" by Il-Suk Oh
 - most contents are based on the text book but my own interpretation added, the sample code is fully updated from my own previous lectures
+- all content in jupyter notebook format.
+    - pip install jupyer  # install jupyer in your enviroment
+    - cd <git-base-dir>
+    - jupyter notebook 
 
 ## Contents
 
